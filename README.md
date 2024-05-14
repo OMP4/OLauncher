@@ -1,5 +1,5 @@
 # OLauncher
-A custom Launcher for Minecraft
+A custom Launcher for Minecraft written in WinForms .NET for C#.
 
 ### DISCLAIMER
 This uses the Windows Registry to save Username and Password data!
